@@ -1,0 +1,30 @@
+{
+  "name": "20-lines-of-code",
+  "version": "1.0.0",
+  "description": "Submission for 20 lines of code challenge",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "20",
+    "twenty",
+    "lines",
+    "of",
+    "code",
+    "challenge",
+    "hack"
+  ],
+  "author": "Jedidiah Amaraegbu",
+  "license": "MIT",
+  "prettier": {
+    "singleQuote": false,
+    "semi": true,
+    "printWidth": 80,
+    "tabWidth": 2,
+    "trailingComma": "es5"
+  },
+  "dependencies": {
+    "synaptic": "^1.1.4"
+  }
+}
