@@ -98,3 +98,7 @@ After each prediction, you’ll calculate how wrong  the prediction was, and adj
 For example, to run the inputs `1` and `0` into the XOR function, you would run the command: `node app.js 3 1 0`
 
 Happy coding!
+
+## Resources
+
+- [How to create a Neural Network in JavaScript in only 30 lines of code by Per Harald Borgen](https://www.freecodecamp.org/news/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49/)
