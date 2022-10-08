@@ -2,6 +2,8 @@
 
 > Node.js app that calculates the result for 4 different basic logic gates in **_20 lines of code_**
 
+![Basic Logic Gate Calculator](20-lines-of-code-jedidiah-amjedidiah-amjedidiah.png)
+
 ## Logic Gates
 
 Logic gates are based on the boolean function and carry out logical operations.
