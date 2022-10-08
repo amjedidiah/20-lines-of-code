@@ -99,6 +99,11 @@ For example, to run the inputs `1` and `0` into the XOR function, you would run 
 
 Happy coding!
 
+## More Ideas
+
+- [API and Discord Bot](https://dev.to/shreyazz/make-a-discord-bot-in-just-30-lines-of-code-44el)
+- [API](https://learningactors.com/make-your-own-api-under-30-lines-of-code/)
+
 ## Resources
 
 - [How to create a Neural Network in JavaScript in only 30 lines of code by Per Harald Borgen](https://www.freecodecamp.org/news/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49/)
